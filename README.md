@@ -20,6 +20,6 @@ Let the games begin...
 
 ---
 
-### 18 apr 2024  
+### jul 2023 - may 2024   
 - Test version of the two pass assembler
 - Test version of the pl0/E compiler

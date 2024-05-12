@@ -11,7 +11,7 @@ The c64 was shipped in a hurry... the BASIC interpreter was the same one used fo
 
 Of course later a whole bunch of development software was available... Alternative interpreters like Simon's Basic or C and Pascal compilers became available. Nowadays there are complete cross development systems where one can develop c64 programs on a PC using all modern facilities.
 
-But it is my goal here to restart my Commodore adventures where I started them in 1983: With a bare computer and a storage device (a cassette recorder or a diskdrive) and no other software than the native BASIC V2 interpreter. All necessary tools have to be build in BASIC, hand-translated machine code or using the tools already (self)made in this project before.
+But it is my goal here to restart my Commodore adventures where I started them in 1983: With a bare computer and a storage device and no other software than the native BASIC V2 interpreter. All necessary tools have to be build in BASIC, hand-translated machine code or using the tools already (self)made in this project before.
 
 Of course it is not necessary to use a real Commodore. An emulator is perfect replacement. I will use VICE. Writing code can be done in a simple editor, using cut & paste in vice. 
 

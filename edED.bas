@@ -16,9 +16,9 @@
 1010 rem if ll=0 then print "{rvon}*** editor empty ***":return
 1020 for i=0 to ll
 1030 if i=cl then print"{rvon}";
-1040 print i;l$(i),len(l$(i))
+1040 print i;l$(i):rem ,len(l$(i))
 1050 next i
-1055 print:print cl,ll
+1055 rem print:print cl,ll
 1060 return
 
 2000 rem *** input ***

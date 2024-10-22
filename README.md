@@ -19,7 +19,8 @@ Of course it is not necessary to use a real Commodore. An emulator is perfect re
 Let the games begin...  
 
 ---
-
+### oct 2024  
+- Development version of editor
 ### jul 2023 - may 2024   
 - Test version of the two pass assembler
 - Test version of the pl0/E compiler

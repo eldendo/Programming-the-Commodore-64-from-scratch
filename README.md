@@ -18,7 +18,7 @@ Of course it is not necessary to use a real Commodore. An emulator is perfect re
 
 Let the games begin... 
 ---
-![demofilm](pl0E_v02.mp4)
+![demofilm](c64-from-scratch.pdf)
 ---
 ### oct 2024  
 - Development version of editor

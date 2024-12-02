@@ -16,8 +16,9 @@ But it is my goal here to restart my Commodore adventures where I started them i
 Of course it is not necessary to use a real Commodore. An emulator is perfect replacement. I will use VICE. Writing code can be done in a simple editor, using cut & paste in vice. 
 
 
-Let the games begin...  
-
+Let the games begin... 
+---
+![demofilm](pl0E_v02.mp4)
 ---
 ### oct 2024  
 - Development version of editor
